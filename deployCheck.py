@@ -19,7 +19,7 @@ resetColor = "\x1b[0m"
 
 # Define your authorized token
 # to create admin token https://www.ibm.com/support/knowledgecenter/en/SSKMKU/com.ibm.security_operations_app.doc/t_Qapps_Operations_authToken.html
-TOKEN = "9b9bf8e9-12b3-484d-b108-a8b6fad063d8"
+TOKEN = "<input here your token>"
 
 # If you run this script out of console CLI, you need to connection on port 443 to console. 
 # Define your IP if it is not localhost
